@@ -12,6 +12,7 @@ MODEL/
 MODELS/
 *backup*/
 *back_up*/
+*.pickle
 
 .DS_Store
 .env
