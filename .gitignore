@@ -13,6 +13,11 @@ MODELS/
 *backup*/
 *back_up*/
 *.pickle
+*.zip
+TEz/
+Heidel/
+Batches/
+Not_used/
 
 .DS_Store
 .env
