@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-#Directories 
+#Directories
 Data/
 DATA/
 Model/
@@ -13,6 +13,7 @@ MODELS/
 *backup*/
 *back_up*/
 *.pickle
+setup/
 
 .DS_Store
 .env
